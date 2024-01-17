@@ -34,14 +34,14 @@ Este projeto contém um microserviço Node.js que fornece informações sobre o 
 *  **Construir a Imagem Docker:**
 
  ```bash
-docker build -t Docker-challenge-Voxus .
+docker build -t Back-challenge-Voxus .
 ```
 &nbsp;
 
 *  **Iniciar o Contêiner:**
 
  ```bash
-docker run -p 3000:3000 Docker-challenge-Voxus
+docker run -p 3000:3000 Back-challenge-Voxus
 ```
 &nbsp;
 
@@ -71,13 +71,13 @@ docker run microservico-test
 
 * Instale as dependências do projeto:
 ```bash
-npm install
+docker build -t Front-challenge-Voxus . 
 ```
 &nbsp;
 
 * Inicie o servidor Vue.js:
 ```bash
-npm run serve
+docker run -p 8080:8080 Front-challenge-Voxus
 ```
 &nbsp;
 
