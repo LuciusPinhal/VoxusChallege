@@ -63,7 +63,7 @@ docker run microservico-test
 
  * Navegue até o diretório do projeto Vue.js:
  ```bash
- cd FrontEnd/Project
+ cd FrontEnd/Voxus
 ```
 &nbsp;
 
