@@ -3,8 +3,7 @@
 &nbsp;&nbsp;&nbsp;
  
 
-
-### 📚 [Um Pouco Sobre Mim](./UmPoucoSobreMim.md)
+https://github.com/user-attachments/assets/4047b101-3d41-4e64-a4e8-c079e3884c6f
 
 
 &nbsp;&nbsp;
